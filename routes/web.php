@@ -7,5 +7,5 @@ Route::get('/jessica', function () {
 });
 
 Route::get('/isan', function () {
-    return view('isan');
+    return view('ikhsan');
 });
