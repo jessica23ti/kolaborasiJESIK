@@ -48,7 +48,7 @@
                     </li> -->
                 </ul>
                 <ul class="navbar-nav brand">
-                    <img src="assets/imgs/profile.jpg" alt="" class="brand-img">
+                    <img src="imgs/profile.jpg" alt="" class="brand-img">
                     <li class="brand-txt">
                         <h5 class="brand-title">John Doe</h5>
                         <div class="brand-subtitle">Web Designer | Developer</div>
