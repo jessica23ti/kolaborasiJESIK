@@ -6,7 +6,7 @@ Route::get('/jessica', function () {
     return view('index');
 });
 
-Route::get('/ikhsan', function () {
-    return view('ikhsan');
+Route::get('/isan', function () {
+    return view('isan');
 });
 
