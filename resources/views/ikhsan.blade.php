@@ -85,7 +85,7 @@
                     <li><span>Birthdate</span> : 31/03/2005</li>
                     <li><span>Email</span> : ikhsan23ti@mahasiswa.pcr.ac.id</li>
                     <li><span>Phone</span> : 08956121336473</li>
-                    <li><span>Address</span> : Rumbai</li>
+                    <li><span>Address</span> : Rumbai Pesisir</li>
                 </ul>
                 <ul class="social-icons pt-3">
                     <li class="social-item"><a class="social-link" href="https://web.facebook.com/profile.php?id=100008672437780""><i class="ti-facebook" aria-hidden="true"></i></a></li>
