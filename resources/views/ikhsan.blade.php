@@ -54,6 +54,7 @@
                         <div class="brand-subtitle">Web Designer | Developer</div>
                     </li>
                 </ul>
+                {{-- <ul></ul> --}}
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                         <a href="#about" class="nav-link">About</a>
@@ -152,6 +153,7 @@
 
     <!-- JohnDoe js -->
     <script src="js/ikhsan.js"></script>
+
 
 </body>
 </html>
